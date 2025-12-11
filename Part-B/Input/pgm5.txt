@@ -1,0 +1,8 @@
+Enter bucket capacity: 10
+Enter output rate: 3
+Enter number of time units: 5
+Packets arriving at time 1: 5
+Packets arriving at time 2: 8
+Packets arriving at time 3: 2
+Packets arriving at time 4: 0
+Packets arriving at time 5: 6

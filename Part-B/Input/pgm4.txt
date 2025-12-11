@@ -1,0 +1,6 @@
+Enter number of packets: 5
+Packet ID and Priority (1=High,2=Med,3=Low): 101 3
+Packet ID and Priority (1=High,2=Med,3=Low): 102 1
+Packet ID and Priority (1=High,2=Med,3=Low): 103 2
+Packet ID and Priority (1=High,2=Med,3=Low): 104 1
+Packet ID and Priority (1=High,2=Med,3=Low): 105 3

@@ -1,0 +1,26 @@
+echo "Hello we are at Computer Networks Lab" > sample.txt
+
+./server
+```
+
+Terminal 2 (run client):
+```
+./client
+Enter filename: sample.txt
+```
+
+Output:
+```
+Server response:
+Hello we are at Computer Networks Lab
+```
+
+To test error case, enter a wrong filename:
+```
+Enter filename: wrong.txt
+```
+
+Output:
+```
+Server response:
+Error: File not found
