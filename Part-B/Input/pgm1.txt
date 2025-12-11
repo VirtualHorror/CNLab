@@ -1,0 +1,9 @@
+Enter data: 1101011011
+Transmitted data: 11010110110000101011110101
+Enter received data: 11010110110000101011110101
+
+Output: No error
+
+Enter received data: 11010110110000101011110100
+
+Output: Error detected
